@@ -3,11 +3,6 @@ import ctypes
 import os
 import sys
 
-
-
-
-
-
 #hi
 def set_system_date(new_date: datetime.datetime):
     """Sets the system date to the provided datetime object."""
