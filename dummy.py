@@ -3,7 +3,7 @@ import ctypes
 import os
 import sys
 
-#hi
+#hi bye
 def set_system_date(new_date: datetime.datetime):
     """Sets the system date to the provided datetime object."""
     if sys.platform == "win32":
